@@ -52,7 +52,4 @@
 
 未完待续....
 
-```bash
-$ My first method
-```
 {% endmethod %}
