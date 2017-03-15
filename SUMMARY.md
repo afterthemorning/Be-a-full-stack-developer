@@ -5,7 +5,7 @@
 * [序](README.md)
 * [Be a full stack developer](be-a-full-stack-developer.md)
 
-## Methods
+## 资料篇
 
-* [test](methods.md)
+* [技术站点](methods.md)
 
