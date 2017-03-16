@@ -12,7 +12,7 @@
 * [IT资讯](itzi-xun.md)
 * [大牛博客](da-niu-bo-ke.md)
 * [Github篇](githubpian.md)
-  * 开源代码库
+  * [开源代码库](githubpian/kai-yuan-dai-ma-ku.md)
 * 大数据与深度学习
 * 工具篇
   * 常用工具
