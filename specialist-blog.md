@@ -1,5 +1,5 @@
 {% method %}
-{% sample lang="日常工具" %}
+{% sample lang="大牛博客" %}
 
 # 大牛博客
 
