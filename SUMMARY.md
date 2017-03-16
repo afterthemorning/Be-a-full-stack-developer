@@ -10,7 +10,7 @@
 
 * [技术站点](methods.md)
 * [IT资讯](itzi-xun.md)
-* 大牛博客
+* [大牛博客](da-niu-bo-ke.md)
 * [Github篇](githubpian.md)
   * 开源代码库
 * 大数据与深度学习
