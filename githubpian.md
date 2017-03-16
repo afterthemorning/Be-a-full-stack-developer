@@ -1,51 +1,43 @@
 {% method %}
-{% sample lang="技术站点" %}
+{% sample lang="GitHub" %}
 
-# 技术学习站点
+### Github开源代码库:
 
-### UIUX - 设计师方向
++ Mars | Spirit - 腾讯移动Web整体解决方案 | AlloyTeam - http://alloyteam.github.io/Spirit/modules/Mars/index.html
 
-1. [SDC设计师网址导航](http://hao.uisdc.com/ "SDC设计师网址导航")
-   ```bash
-   学设计从这里开始！非常棒的设计资源聚合网站，
-   为设计师提供ps教程、UI设计、素材下载、高清图库、配色方案、用户体验、
-   网页设计等全方位设计师网站导航指引
-   ```
++ nwjs/nw.js - https://github.com/nwjs/nw.js/
 
-### 大数据、深度学习
-1. [深度学习](https://deeplearning4j.org/cn/gettingstarted "深度学习")
-   ```bash
-   Deep Learning，Deeplearning4j是一种用于配置深度多层神经网络的领域专用语言。
-   ```
++ Huddle/PhantomCSS - https://github.com/Huddle/PhantomCSS
 
-{% sample lang="必看书籍" %}
-+ SICP(Structure and Interpretation of Computer Programs)
-+ 深入理解计算机系统
-+ 代码大全2
-+ 人件
-+ 人月神话
-+ 软件随想录
-+ 算法导论（麻省理工学院出版社）
-+ 离散数学及其应用
-+ 设计模式
-+ 编程之美
-+ 黑客与画家
-+ 编程珠玑
-+ The Little Schemer
-+ Simply Scheme_Introducing_Computer_Science
-+ C++ Prime
-+ Effective C++
-+ TCP/IP详解
-+ Unix 编程艺术
-+ 技术的本质
-+ 软件随想录
-+ 计算机程序设计艺术
-+ 职业篇：程序员的自我修养,程序员修炼之道,高效能程序员的修炼
-+ 《精神分析引论》弗洛伊德
-+ 《失控》《科技想要什么》《技术元素》凯文凯利
-+ 程序开发心理学
-+ 天地一沙鸥
-+搞定：无压力工作的艺术
++ garris/BackstopJS - https://github.com/garris/BackstopJS
+
++ node-weixin-pay/index.js - https://github.com/node-weixin/node-weixin-pay
+
++ DeerResume - https://github.com/geekcompany/DeerResume
+
++ Mr. Data Converter - http://shancarter.github.io/mr-data-converter/
+
++ iSparta－PNG压缩与格式转换工具 - http://isparta.github.io/index.html
+
++ Animate.css - http://daneden.github.io/animate.css/
+
++ Sencha Docs(Ext4.1.0 Doc中文版 V1.0.0 Beta) API Documentation - http://extjs-doc-cn.github.io/ext4api/
+
++ grunt · GitHub - https://github.com/gruntjs
+
++ jshint/reporter.js - https://github.com/jshint/jshint/
+
++ aui/artTemplate · GitHub - https://github.com/aui/artTemplate
+
++ countUp.js - http://inorganik.github.io/countUp.js/
+
++ mozilla/source-map · GitHub - https://github.com/mozilla/source-map
+
++ Cropper图片裁剪 - http://fengyuanchen.github.io/cropper/
+
+
+{% sample lang="其它平台" %}
++ 
 
 
 {% common %}
