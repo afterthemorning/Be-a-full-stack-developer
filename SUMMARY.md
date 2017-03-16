@@ -14,4 +14,5 @@
 * [大数据与深度学习](big-data-and-deep-learning.md)
 * [工具篇](tools.md)
 * [音乐篇](music.md)
+* [解决方案](solutions.md)
 
