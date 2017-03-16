@@ -18,6 +18,17 @@
    Deep Learning，Deeplearning4j是一种用于配置深度多层神经网络的领域专用语言。
    ```
 
+{% sample lang="IT资讯" %}
+
+#IT资讯站点
+
++ 51CTO
++ IT home
++ open-open
++ UED fans
++ HTML580
++ W3C schools
+
 {% sample lang="必看书籍" %}
 + SICP(Structure and Interpretation of Computer Programs)
 + 深入理解计算机系统
