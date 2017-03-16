@@ -3,14 +3,23 @@
 
 # 技术学习站点
 
+* Smashing Magazine – For Professional Web Designers and Developers - https://www.smashingmagazine.com/
+
+* Get社区（分享很多知识) - http://get.ftqq.com/
+
+* MOVR – Mobile Overview Report - http://www.scientiamobile.com/page/movr-mobile-overview-report
+
+
+
 ### UIUX - 设计师方向
 
-1. [SDC设计师网址导航](http://hao.uisdc.com/ "SDC设计师网址导航")
+* [SDC设计师网址导航](http://hao.uisdc.com/ "SDC设计师网址导航")
    ```bash
    学设计从这里开始！非常棒的设计资源聚合网站，
    为设计师提供ps教程、UI设计、素材下载、高清图库、配色方案、用户体验、
    网页设计等全方位设计师网站导航指引
    ```
+* Tips, Tricks, and Techniques on using Cascading Style Sheets. - https://css-tricks.com/automating-css-regression-testing/
 
 ### 大数据、深度学习
 
@@ -23,6 +32,7 @@
 
 #IT资讯站点
 
++ InfoQ - 促进软件开发领域知识与创新的传播 - http://www.infoq.com/cn/
 + 51CTO
 + IT home
 + open-open
