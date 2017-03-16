@@ -14,9 +14,10 @@
 * [Github篇](githubpian.md)
   * [开源代码库](githubpian/kai-yuan-dai-ma-ku.md)
 * [大数据与深度学习](da-shu-ju-yu-shen-du-xue-xi.md)
-* 工具篇
+* [工具篇](gong-ju-pian.md)
   * [常用工具](chang-yong-gong-ju.md)
-  * 部署工具
+  * [部署工具](bu-shu-gong-ju.md)
+  * [平台工具](ping-tai-gong-ju.md)
 * 音乐篇
   * 流行音乐
 
