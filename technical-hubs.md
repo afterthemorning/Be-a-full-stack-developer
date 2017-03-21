@@ -3,22 +3,24 @@
 
 # 技术学习站点
 
-* Smashing Magazine – For Professional Web Designers and Developers - https://www.smashingmagazine.com/
+* [Smashing Magazine](https://www.smashingmagazine.com/) - Smashing Magazine – For Professional Web Designers and Developers
+
+* [Project Smart](https://www.projectsmart.co.uk/) - Project Smart: Must Read News & Information About Project Management
+
+* [SitePoint](http://www.sitepoint.com/) - http://www.sitepoint.com/css-position-sticky-introduction-polyfills/
+* [woorkup - Marketing, WordPress, SEO, WebPerf](https://woorkup.com/) - https://woorkup.com/
 
 * Get社区（分享很多知识) - http://get.ftqq.com/
 
 * MOVR – Mobile Overview Report - http://www.scientiamobile.com/page/movr-mobile-overview-report
 
-* [SitePoint](http://www.sitepoint.com/) - http://www.sitepoint.com/css-position-sticky-introduction-polyfills/
-
-* [woorkup - Marketing, WordPress, SEO, WebPerf](https://woorkup.com/) - https://woorkup.com/
-{% sample lang="UIUX" %}
-
 * [简书](http://www.jianshu.com/) - http://www.jianshu.com/
 
 * [Fast Company](https://www.fastcompany.com/) - https://www.fastcompany.com/
 
-* [No Excuse List](http://www.noexcuselist.com/) - http://www.noexcuselist.com/ : 学习网站大全
+
+{% sample lang="UIUX" %}
+
 
 ### UIUX - 设计师方向
 
@@ -137,5 +139,9 @@ http://simplyaccessible.com/archives/
 https://www.fastcompany.com/3062183/your-most-productive-self/what-happened-when-i-gave-up-multitasking-for-a-week
 
 https://conferences.oreilly.com/velocity/vl-ny
+
+* [No Excuse List](http://www.noexcuselist.com/) - http://www.noexcuselist.com/ : 学习网站大全
+
+
 
 {% endmethod %}
