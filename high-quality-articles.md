@@ -10,5 +10,7 @@
 
 * Checklist: How to Set Up a Workshop - Tom Bartel - [http://www.tombartel.de/2016/08/02/checklist-how-to-set-up-a-workshop/](http://www.tombartel.de/2016/08/02/checklist-how-to-set-up-a-workshop/ "How to set up a workshop")
 
+* 程序员，这是你想要的技术leader吗？- [http://mp.weixin.qq.com/s/lHh79f8bwwsa0fW5LkOfZA](http://mp.weixin.qq.com/s/lHh79f8bwwsa0fW5LkOfZA "程序员，这是你想要的技术leader吗？")
+
 
 
