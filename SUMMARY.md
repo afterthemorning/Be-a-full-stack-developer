@@ -18,7 +18,5 @@
 * [优质文章](high-quality-articles.md)
   * [UED design principles](high-quality-articles/ued-design-principles.md)
   * [Eyes care notice](high-quality-articles/eyes-care-notice.md)
-  * test
-
-
+  * [test](high-quality-articles/test.md)
 
