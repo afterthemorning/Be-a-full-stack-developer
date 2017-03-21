@@ -26,6 +26,8 @@
 
 移动web页面，input获取焦点弹出系统虚拟键盘时，挡住input - https://www.zhihu.com/question/32746176
 
+移动端使用fixed键盘弹起bug - http://www.cnblogs.com/geoffgu/p/6396922.html
+
 
 ### Rendering Template
 
