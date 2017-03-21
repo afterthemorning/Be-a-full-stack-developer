@@ -15,8 +15,9 @@
 * [工具篇](tools.md)
 * [音乐篇](music.md)
 * [解决方案](solutions.md)
-* [优质文章](you-zhi-wen-zhang.md)
-  * UED design principles
+* [优质文章](high-quality-articles.md)
+  * [UED design principles](you-zhi-wen-zhang/ued-design-principles.md)
+  * [Eyes care notice](https://www.gitbook.com/book/afterthemorning/be-a-full-stack-developer/edit#)
 
 
 
