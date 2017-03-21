@@ -75,12 +75,16 @@
 
 # 开发工具
 
+* Java开发工具 - http://www.techug.com/post/java-tools-you-should-know.html
+
+
+
 {% sample lang="部署工具" %}
 
 # 部署工具
 
 * [Gearman Job Server 自动部署](http://gearman.org/) - http://gearman.org/
-
+* [BOWER: A package manager for the web](http://bower.io/) - http://bower.io/
 
 {% sample lang="性能工具" %}
 
