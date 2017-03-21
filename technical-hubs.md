@@ -9,6 +9,9 @@
 
 * MOVR – Mobile Overview Report - http://www.scientiamobile.com/page/movr-mobile-overview-report
 
+* 
+
+{% sample lang="UIUX" %}
 
 
 ### UIUX - 设计师方向
@@ -21,19 +24,48 @@
    ```
 * Tips, Tricks, and Techniques on using Cascading Style Sheets. - https://css-tricks.com/automating-css-regression-testing/
 
+* [UEDfans - 用户体验设计导航](http://uedfans.cn/) - http://uedfans.cn/
+
+* [W3CPlus ](http://www.w3cplus.com/) - http://www.w3cplus.com/
+
+* [UEDfans - 用户体验设计导航](http://uedfans.cn/) - http://uedfans.cn/
+
+* [UEDfans - 用户体验设计导航](http://uedfans.cn/) - http://uedfans.cn/
+
+* [UEDfans - 用户体验设计导航](http://uedfans.cn/) - http://uedfans.cn/
+
+* [UEDfans - 用户体验设计导航](http://uedfans.cn/) - http://uedfans.cn/
+
+* [UEDfans - 用户体验设计导航](http://uedfans.cn/) - http://uedfans.cn/
+
+* [UEDfans - 用户体验设计导航](http://uedfans.cn/) - http://uedfans.cn/
+
+* [UEDfans - 用户体验设计导航](http://uedfans.cn/) - http://uedfans.cn/
+
+
+{% sample lang="Web开发" %}
+
+# Web开发
+
+* [HTML580](http://www.html580.com/) - http://www.html580.com/
+* [Ionic Mobile App Framework](http://ionicframework.com/) - http://ionicframework.com/
+
+
+{% sample lang="大数据" %}
+
 ### 大数据、深度学习
 
-1. [深度学习](https://deeplearning4j.org/cn/gettingstarted "深度学习")
-   ```bash
-   Deep Learning，Deeplearning4j是一种用于配置深度多层神经网络的领域专用语言。
+* [深度学习](https://deeplearning4j.org/cn/gettingstarted "深度学习") -   Deep Learning，Deeplearning4j是一种用于配置深度多层神经网络的领域专用语言。
    ```
+* [Maven Central Repository](http://search.maven.org) - http://search.maven.org - 下载各种依赖包
+
 
 {% sample lang="IT资讯" %}
 
 #IT资讯站点
 
 + InfoQ - 促进软件开发领域知识与创新的传播 - http://www.infoq.com/cn/
-+ 51CTO
++ 51CTO - http://www.51cto.com/
 + IT home
 + open-open
 + UED fans

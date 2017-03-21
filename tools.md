@@ -7,7 +7,6 @@
 * wireshark：知名的网络数据包分析工具
 * RegexBuddy:强大的正则表达式测试工具
 * SublimeText：程序员最爱的编辑器
-* GifCam：制作gif形式的教程非常好用，可以代替视频教程
 * Axure:快速原型制作工具，
 * Processon: 在线协作工具（画流程图，各种其它图，还有资源共享） - [http://www.processon.com/](http://www.processon.com/)
 * 百度脑图：
@@ -78,7 +77,10 @@
 
 {% sample lang="部署工具" %}
 
-# 开发工具
+# 部署工具
+
+* [Gearman Job Server 自动部署](http://gearman.org/) - http://gearman.org/
+
 
 {% sample lang="性能工具" %}
 
@@ -87,6 +89,12 @@
 {% sample lang="测试工具" %}
 
 # 测试工具
+
+* [Web Analytics Solution Profiler](http://www.webanalyticssolutionprofiler.com) - http://www.webanalyticssolutionprofiler.com
+
+
+
+
 
 {% common %}
 
