@@ -2,6 +2,10 @@
 
 f.lux - [https://justgetflux.com/ ](https://justgetflux.com/ "f.lux"): 护眼神器，过滤蓝光，程序员护眼必备良品
 
+Is your computer keeping you up late?
+
+is free software that warms up your computer display at night, to match your indoor lighting.
+
 # \# Window护眼设置
 
 在桌面右击选择“个性化”出现对话框，单击“窗口颜色”按钮切换界面，然后单击“高级外观设置”按钮出现对话框，在“项目”中选择“窗口”，然后单击后面
