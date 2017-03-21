@@ -5,7 +5,6 @@
 * [Be a full stack developer](be-a-full-stack-developer.md)
 * [序](README.md)
 * [Web前端](front-end.md)
-* [how to maintain programmers health](how-to-maintain-programmers-health.md)
 
 ## 资料篇
 

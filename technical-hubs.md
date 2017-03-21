@@ -68,6 +68,8 @@
   Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. Squid has extensive access controls and makes a great server accelerator. It runs on most available operating systems, including Windows and is licensed under the GNU GPL.
 
 {% sample lang="方法论" %}
+# 方法论
+
 
 * [Agile Methodologies for Software Development](https://www.versionone.com/agile-101/agile-methodologies/) - 敏捷开发
 
@@ -79,7 +81,6 @@
 * [深度学习](https://deeplearning4j.org/cn/gettingstarted "深度学习") -   Deep Learning，Deeplearning4j是一种用于配置深度多层神经网络的领域专用语言。
    ```
 * [Maven Central Repository](http://search.maven.org) - http://search.maven.org - 下载各种依赖包
-
 
 
 {% sample lang="IT资讯" %}
