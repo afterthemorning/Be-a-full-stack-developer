@@ -18,6 +18,8 @@
 
 * [Fast Company](https://www.fastcompany.com/) - https://www.fastcompany.com/
 
+* [No Excuse List](http://www.noexcuselist.com/) - http://www.noexcuselist.com/ : 学习网站大全
+
 ### UIUX - 设计师方向
 
 * [SDC设计师网址导航](http://hao.uisdc.com/ "SDC设计师网址导航")
@@ -58,11 +60,16 @@
 * [Ionic Mobile App Framework](http://ionicframework.com/) - http://ionicframework.com/
 * [Modernizr](https://modernizr.com/) - Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer.
 
+
 {% sample lang="服务器" %}
 
 * [Squid](http://www.squid-cache.org/) - 高性能缓存服务器 - Optimising Web Delivery
 
   Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. Squid has extensive access controls and makes a great server accelerator. It runs on most available operating systems, including Windows and is licensed under the GNU GPL.
+
+{% sample lang="方法论" %}
+
+* [Agile Methodologies for Software Development](https://www.versionone.com/agile-101/agile-methodologies/) - 敏捷开发
 
 
 {% sample lang="大数据" %}
