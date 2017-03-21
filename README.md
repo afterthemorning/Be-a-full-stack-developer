@@ -10,6 +10,8 @@
 
 
 
+
+
 "We always leave Velocity with new techniques and tooling that makes our team more efficient and our job more enjoyable.
 
 " – Stephen Yeargin, Raven Tools
