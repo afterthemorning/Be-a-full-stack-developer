@@ -49,6 +49,7 @@
 
 * [Freenom](http://www.freenom.com/en/index.html?lang=en) - 提供免费域名
 * [Preloaders.net](https://preloaders.net/) -  非常棒的加载动画
+  [Ajax loading gif generator](http://ajaxload.info) -  Ajax loader生成器
   
   More than 800 free and premium ajax loader (loading animated GIF, SVG and APNG) spinners, bars and 3D animations generator for AJAX and JQuery
 

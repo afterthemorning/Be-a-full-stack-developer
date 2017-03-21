@@ -22,6 +22,10 @@
 
 * CircuitBreaker - http://martinfowler.com/bliki/CircuitBreaker.html
 
+# Hybrid App
+
+移动web页面，input获取焦点弹出系统虚拟键盘时，挡住input - https://www.zhihu.com/question/32746176
+
 
 ### Rendering Template
 
