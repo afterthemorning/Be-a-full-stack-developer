@@ -35,6 +35,15 @@
 
 + Cropper图片裁剪 - http://fengyuanchen.github.io/cropper/
 
+{% sample lang="游戏" %}
+
+# 游戏引擎
+
+* Universal Scene Description (USD) - http://graphics.pixar.com/usd/docs/index.html
+
+  The first publicly available software that addresses the need to robustly and scalably interchange and augment arbitrary 3D scenes that may be composed from many elemental assets.  
+
+
 
 {% sample lang="其它平台" %}
 + 
@@ -42,6 +51,7 @@
 
 {% common %}
 
-未完待续....
+
+      Live Well.Do Good.
 
 {% endmethod %}
