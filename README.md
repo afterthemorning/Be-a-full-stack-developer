@@ -26,6 +26,10 @@ If I had only changed myself first, then by example I would have changed my fami
 
 
 
+
+
+---
+
 "We always leave Velocity with new techniques and tooling that makes our team more efficient and our job more enjoyable.
 
 " – Stephen Yeargin, Raven Tools
