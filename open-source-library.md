@@ -41,12 +41,13 @@
 
 * Universal Scene Description (USD) - http://graphics.pixar.com/usd/docs/index.html
 
-  The first publicly available software that addresses the need to robustly and scalably interchange and augment arbitrary 3D scenes that may be composed from many elemental assets.  
+  皮克斯公司开源的动画工具:The first publicly available software that addresses the need to robustly and scalably interchange and augment arbitrary 3D scenes that may be composed from many elemental assets.  
 
 
 
 {% sample lang="其它平台" %}
-+ 
+
+* [Freenom](http://www.freenom.com/en/index.html?lang=en) - 提供免费域名
 
 
 {% common %}

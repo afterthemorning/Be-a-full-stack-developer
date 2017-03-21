@@ -93,10 +93,13 @@
 + 51CTO - http://www.51cto.com/
 + 外刊IT评论 - http://www.aqee.net/
 + [China Daily Website - Connecting China Connecting the World](http://www.chinadaily.com.cn/) - http://www.chinadaily.com.cn/
-+ HTML580
-+ W3C schools
++ [Know Your Meme](knowyourmeme.com) - 一个很搞的网站，吐槽颇多
+
 
 {% sample lang="必看书籍" %}
+
+# 书籍
+
 + SICP(Structure and Interpretation of Computer Programs)
 + 深入理解计算机系统
 + 代码大全2
@@ -123,7 +126,7 @@
 + 《失控》《科技想要什么》《技术元素》凯文凯利
 + 程序开发心理学
 + 天地一沙鸥
-+搞定：无压力工作的艺术
++ 搞定：无压力工作的艺术
 
 
 {% common %}

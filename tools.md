@@ -16,7 +16,7 @@
 * CheatEngine：玩游戏修改内存值必备神器（记得我在玩轩辕剑6的时候就用的它，超级方便呢）
 * ApkIDE:Android反编译神器
 * 翻、墙工具（自\|由\|门、天行浏览器，免费的VPN：
-  [http://www.mangovpn.com/）,发现最方便还属Lantern，免费用起来超级方便（更新于2015-08-22）](http://www.mangovpn.com/%EF%BC%89,%E5%8F%91%E7%8E%B0%E6%9C%80%E6%96%B9%E4%BE%BF%E8%BF%98%E5%B1%9ELantern%EF%BC%8C%E5%85%8D%E8%B4%B9%E7%94%A8%E8%B5%B7%E6%9D%A5%E8%B6%85%E7%BA%A7%E6%96%B9%E4%BE%BF%EF%BC%88%E6%9B%B4%E6%96%B0%E4%BA%8E2015-08-22%EF%BC%89)
+  [http://www.mangovpn.com/）,发现最方便还属Lantern.
 * 设计工具：Sketch、OmniGraffle
 * MindManger：思维导图
 * MagicDraw:Uml图工具
@@ -27,6 +27,7 @@
 * f.lux: 护眼神器，过滤蓝光，程序员护眼必备良品
 * LaTeX: 基于ΤΕΧ的排版系统, 让写论文更方便
 * Antlr：开源的语法分析器，可以让你毫无压力的写个小parser
+* 简历神器: http://deercv.com/, http://app.enhancv.com - 简历样板:https://github.com/geekcompany/ResumeSample
 
 {% sample lang="平台工具" %}
 
@@ -96,12 +97,23 @@
 
 * [Web Analytics Solution Profiler](http://www.webanalyticssolutionprofiler.com) - http://www.webanalyticssolutionprofiler.com
 
+{% sample lang="VPN工具" %}
 
+# VPN
 
-
+* 自由门7.31专业版 - https://code.google.com/archive/p/weini/downloads
+* VPNSO - http://vpnso.com
 
 {% common %}
 
-未完待续....
+
+* 写作校对: http://hemingwayapp.com/
+* 生成文字云图 - http://www.tagxedo.com/app.html 依赖Silverlight运行的.
+
+#### Map Generator
+
+* [Pixel Map Generator | amCharts](http://pixelmap.amcharts.com/) - 生成世界地图
+
+
 
 {% endmethod %}

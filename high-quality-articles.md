@@ -8,5 +8,7 @@
 
 * A successful Git branching model - [http://nvie.com/posts/a-successful-git-branching-model/](http://nvie.com/posts/a-successful-git-branching-model/ "A successful Git branching model")
 
+* Checklist: How to Set Up a Workshop - Tom Bartel - [http://www.tombartel.de/2016/08/02/checklist-how-to-set-up-a-workshop/](http://www.tombartel.de/2016/08/02/checklist-how-to-set-up-a-workshop/ "How to set up a workshop")
+
 
 
