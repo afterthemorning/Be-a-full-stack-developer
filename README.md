@@ -20,17 +20,7 @@ If I had only changed myself first, then by example I would have changed my fami
 
 如果一开始我仅仅去改变我自己，然后作为一个榜样，我可能改变我的家庭；在家人的帮助和鼓励下，我可能为国家做一些事情。然后谁知道呢？我甚至可能改变这个世界。
 
-
-
-
-
-
-
-
-
 ---
 
-"We always leave Velocity with new techniques and tooling that makes our team more efficient and our job more enjoyable.
-
-" – Stephen Yeargin, Raven Tools
+"We always leave Velocity with new techniques and tooling that makes our team more efficient and our job more enjoyable." – Stephen Yeargin, Raven Tools
 
