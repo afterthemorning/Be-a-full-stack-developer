@@ -12,5 +12,7 @@
 
 * 程序员，这是你想要的技术leader吗？- [http://mp.weixin.qq.com/s/lHh79f8bwwsa0fW5LkOfZA](http://mp.weixin.qq.com/s/lHh79f8bwwsa0fW5LkOfZA "程序员，这是你想要的技术leader吗？")
 
+* 美团点评移动网络优化实践 - [http://tech.meituan.com/SharkSDK.html](http://tech.meituan.com/SharkSDK.html "美团点评移动网络优化实践")
+
 
 
