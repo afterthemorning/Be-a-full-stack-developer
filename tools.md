@@ -100,7 +100,7 @@
 * [Appium](http://appium.io/) - Automation for Apps
   Appium is an open source test automation framework for use with native, hybrid and mobile web apps. 
 It drives iOS, Android, and Windows apps using the WebDriver protocol.
-
+* SyncUI – 跨设备同步测试，黑科技，现在是Beta阶段，免费的。比较好用。
 
 {% sample lang="VPN工具" %}
 
