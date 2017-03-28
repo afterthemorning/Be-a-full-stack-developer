@@ -119,6 +119,8 @@ It drives iOS, Android, and Windows apps using the WebDriver protocol.
 
 * [Pixel Map Generator | amCharts](http://pixelmap.amcharts.com/) - 生成世界地图
 
+#### Excel to JSON
 
+* Excel转成JSON - https://excel-to-json.wtsolutions.cn/en/latest/getstarted/
 
 {% endmethod %}
