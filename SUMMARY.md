@@ -19,5 +19,5 @@
   * [UED design principles](high-quality-articles/ued-design-principles.md)
   * [Eyes care notice](high-quality-articles/eyes-care-notice.md)
   * [how to maintain programmers health](high-quality-articles/how-to-maintain-programmers-health.md)
-  * [test](high-quality-articles/test.md)
+  * [career planning and development](high-quality-articles/career-planning-and-development.md)
 
