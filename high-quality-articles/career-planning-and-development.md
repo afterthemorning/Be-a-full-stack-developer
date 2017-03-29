@@ -2,9 +2,7 @@
 
 我是喜欢在网上到处逛，偶然的机遇找到了get.jobdeer.com看到很多好的资料，然后关注了[@Easy](http://weibo.com/easy)，我记得之前有一个1分钱的试读活动在“百度阅读”买了电子版的[《程序员跳槽全攻略》](http://yuedu.baidu.com/ebook/e8a5fb44af45b307e9719736)。 现在已经改名字了。
 
-  
-从《程序员跳槽全攻略》改名为《程序员必读的职业规划书》，虽然内容上的不没有什么太大的改变。  
-
+从《程序员跳槽全攻略》改名为《程序员必读的职业规划书》，虽然内容上的不没有什么太大的改变。
 
 ## 职业规划 {#职业规划}
 
@@ -22,7 +20,6 @@
 * 学会观察技术趋势
 * 投资新兴市场和细分市场
 
-  
 在微博上关注了很多IT大牛的账号，就是为了了解一下技术的趋势。
 
 ## 树立个人品牌 {#树立个人品牌}
@@ -41,7 +38,15 @@ GitHub、StackOverflow & Quora账号，建立了自己的技术博客，blog.rau
 
 ## 我的总结 {#我的总结}
 
+总得来说，在对于一个刚毕业的大学生, 或者说刚步入职场的小鲜肉，看看这书还是会破有收获，因为这样的我们有需要知识和见识都还没有达到一个高度，慢慢积累总会有一些成就的。
+
 思维导图 by Miracle Wong
 
 ![](/assets/career plan.png)
+
+找到另一个英文版本的职业规划: [http://blog.raultang.com/Career-Development/programer-career-plan/](http://blog.raultang.com/Career-Development/programer-career-plan/ "Raul Tang&apos;s Blogs")
+
+![](/assets/Career-Development-Journey-Map-V2.jpg)
+
+
 
