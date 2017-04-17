@@ -10,29 +10,14 @@
 * Axure:快速原型制作工具，
 * Processon: 在线协作工具（画流程图，各种其它图，还有资源共享） - [http://www.processon.com/](http://www.processon.com/)
 * 百度脑图：
-  [http://naotu.baidu.com/](http://naotu.baidu.com/)
-* tinyproxy:（Linux）小型的代理服务器支持http和https协议
-* EaseUS Partition Master：超级简单的分区调整工具，速度还是蛮快的，C盘不够用了就用它从D盘划点空间吧，不用重装系统这么折腾哦。
-* CheatEngine：玩游戏修改内存值必备神器（记得我在玩轩辕剑6的时候就用的它，超级方便呢）
-* ApkIDE:Android反编译神器
-* 翻、墙工具（自\|由\|门、天行浏览器，免费的VPN：
-  [http://www.mangovpn.com/）,发现最方便还属Lantern.
-* 设计工具：Sketch、OmniGraffle
-* MindManger：思维导图
-* MagicDraw:Uml图工具
-* innotop：MySql状态监测工具
-* 墨刀：比Axure更为简单的原型工具，可以快速制作原型
-* Karabiner: Mac专用，修改键盘键位的神器，机械键盘必备
-* Timing：Mac专用，统计你的时间都花在哪了
-* f.lux: 护眼神器，过滤蓝光，程序员护眼必备良品
-* LaTeX: 基于ΤΕΧ的排版系统, 让写论文更方便
-* Antlr：开源的语法分析器，可以让你毫无压力的写个小parser
 * 简历神器: http://deercv.com/, http://app.enhancv.com - 简历样板:https://github.com/geekcompany/ResumeSample
 
 {% sample lang="平台工具" %}
 
 # 平台工具 {#平台工具}
 
+
+* http://www.discoversdk.com/ - Discover the Best Software development components & Reviews | DiscoverSdk
 * Phabricator: 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
 * Redmine/Trac：项目管理平台
 * Jenkins/Jira\(非开源\)：持续集成系统（Apache Continuum，这个是Apache下的CI系统，还没来得及研究）
