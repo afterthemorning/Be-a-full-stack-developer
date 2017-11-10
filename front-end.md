@@ -3,6 +3,11 @@
 
 # Javascript
 
+1. https://scottjehl.github.io/picturefill/
+
+**Picturefill:** enables support for the picture element and associated features in browsers that do not yet support them.
+
+
 {% sample lang="CSS/Sass" %}
 
 # CSS3/Sass
