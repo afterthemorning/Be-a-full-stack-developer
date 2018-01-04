@@ -5,6 +5,8 @@
 * [Be a full stack developer](be-a-full-stack-developer.md)
 * [序](README.md)
 * [Web前端](front-end.md)
+* [Integrations](integrations.md)
+  * 
 
 ## 资料篇
 
